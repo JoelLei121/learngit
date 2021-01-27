@@ -1,2 +1,2 @@
-Git is hard to learn. qq
-Well actually not that hard lol
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
